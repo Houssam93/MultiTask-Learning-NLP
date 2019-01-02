@@ -13,12 +13,12 @@ Requirements:
 The data of the paper are on the `data` directory. The notebook also assumes access to the [GloVe embeddings](https://nlp.stanford.edu/projects/glove/), in particular [these embeddings](http://nlp.stanford.edu/data/glove.6B.zip).
 
 ## Relevant papers
-If using the code, please cite our [arxiv paper](https://arxiv.org/pdf/1807.10076.pdf): 
+If using the code, please cite our paper (Will be available soon): 
 ```
-@article{balikas2018concurrent,
-  title={Concurrent Learning of Semantic Relations},
-  author={Balikas, Georgios and Dias, Gael and Moraliyski, Rumen and Amini, Massih-Reza},
-  journal={arXiv preprint arXiv:1807.10076},
-  year={2018}
+@article{balikas2019concurrent,
+  title={Learning Lexical-Semantic Relations Using IntuitiveCognitive Links},
+  author={Balikas, Georgios and Dias, Gael and Moraliyski, Rumen and AKHMOUCH, Houssam and Amini, Massih-Reza},
+  journal={Will be available soon},
+  year={2019}
 }
 ```
