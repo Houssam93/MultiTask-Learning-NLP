@@ -13,6 +13,10 @@ Requirements:
 ## Data
 The data of the paper are on the `data` directory. The notebook also assumes access to the [GloVe embeddings](https://nlp.stanford.edu/projects/glove/), in particular [these embeddings](http://nlp.stanford.edu/data/glove.6B.zip).
 
+##Note
+
+In this first version, and for the sake of reproducing the results displayed in the paper, multi-task network alternates between tasks after each epoch and not after each batch. This issue has be improved in future relases.
+
 ## Relevant papers
 If using the code, please cite our paper (Will be available soon): 
 ```
