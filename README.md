@@ -15,15 +15,18 @@ The data of the paper are on the `data` directory. The notebook also assumes acc
 
 ## Note
 
-In this first version, and for the sake of reproducing the results displayed in the paper, multi-task network alternates between tasks (in the shared layer) after each epoch and not after each batch. This issue has be improved in future relases.
+In this first version, and for the sake of reproducing the results displayed in the paper, multi-task network alternates between tasks (in the shared layer) after each epoch and not after each batch. This issue has been improved in future relases
 
 ## Relevant papers
 If using the code, please cite our paper (Will be available soon): 
 ```
-@article{balikas2019Learning,
-  title={Learning Lexical-Semantic Relations Using IntuitiveCognitive Links},
-  author={Balikas, Georgios and Dias, Gael and Moraliyski, Rumen and AKHMOUCH, Houssam and Amini, Massih-Reza},
-  Conference={ECIR2019},
-  year={2019}
+@inproceedings{BalikasECIR2019,
+        Author = {Balikas, Georgios and Dias, Ga\"el and Moraliyski, Rumen and
+Akhmouch, Houssam and Amini, Massih-Reza},
+        Booktitle = {Proceedings of the 41st European Conference on Information
+Retrieval (ECIR)},
+        Title = {Learning Lexical-Semantic Relations Using Intuitive Cognitive
+Links},
+        Year = {2019 (to appear)}
 }
 ```
