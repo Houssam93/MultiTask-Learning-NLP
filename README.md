@@ -1,7 +1,7 @@
 # Multitask learning for discovering semantic relations between words
 
 The repository contains the code used for Learning Lexical-Semantic Relations Using Intuitive
-Cognitive Links. The code is provided in the form of notebooks.
+Cognitive Links, this paper will be published in the 41st European Conference on Information Retrieval (ECIR 2019). The code is provided in the form of notebooks.
 
 ## Code 
 The code is available in the notebook `MultiTaskV0.0-c.ipynb`
