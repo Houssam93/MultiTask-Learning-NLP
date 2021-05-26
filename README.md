@@ -18,7 +18,7 @@ The data of the paper are on the `data` directory. The notebook also assumes acc
 In this first version, and for the sake of reproducing the results displayed in the paper, multi-task network alternates between tasks (in the shared layer) after each epoch and not after each batch. This issue will be improved in future relases
 
 ## Relevant papers
-If using the code, please cite our paper (Will be available soon): 
+If using the code, please cite our paper : 
 ```
 @inproceedings{BalikasECIR2019,
         Author = {Balikas, Georgios and Dias, Ga\"el and Moraliyski, Rumen and
@@ -27,6 +27,6 @@ Akhmouch, Houssam and Amini, Massih-Reza},
 Retrieval (ECIR)},
         Title = {Learning Lexical-Semantic Relations Using Intuitive Cognitive
 Links},
-        Year = {2019 (to appear)}
+        Year = {2019 }
 }
 ```
